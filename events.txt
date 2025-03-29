@@ -1,0 +1,67 @@
+1939,5,USEGe,10,Setup
+1939,5,USEGe,10,Setup
+1939,5,USEGe,10,Setup
+1939,5,USEGe,12,20. DoW Poland
+1939,5,USEGe,-9,25. DoW Germany
+1939,5,USEGe,-7,26. USSR controls East Poland.
+1939,5,USEGe,-4,27. USSR controls Nazi-Soviet pact areas.
+1939,5,PactGe,10,S/O 1939 German Pact Chit
+1939,5,PactRu,10,S/O 1939 USSR Pact Chit
+1939,5,USEJa,10,USE
+1939,6,PactGe,-9,31. USSR declares war on Finland
+1939,6,PactGe,10,N/D 1939 German Pact Chit
+1939,6,PactRu,10,N/D 1939 USSR Pact Chit
+1939,6,USEGe,10,USE
+1940,1,PactGe,10,J/F 1940 German Pact Chit
+1940,1,PactRu,10,J/F 1940 USSR Pact Chit
+1940,1,USEJa,10,USE
+1940,2,USEGe,-4,39. Mining Norwegian Coast
+1940,2,USEGe,3,20. Axis declare war on Denmark
+1940,2,USEGe,3,20. Axis declare war on Norway
+1940,2,PactGe,10,M/A 1940 German Pact Chit
+1940,2,PactRu,10,M/A 1940 USSR Pact Chit
+1940,2,USEGe,10,USE
+1940,3,USEGe,8,20. Axis declare war on Belgium
+1940,3,USEGe,8,20. Axis declare war on Netherlands
+1940,3,USEGe,7,7. Italy declares war on CW and France
+1940,3,PactGe,10,M/J 1940 German Pact Chit
+1940,3,PactRu,10,M/J 1940 USSR Pact Chit
+1940,3,USEJa,10,USE
+1940,4,USEGe,18,8. Axis vichies France.
+1940,4,USEGe,-5,32. Other ally declares war on Vichy France
+1940,4,USEJa,5,6. Close Burma Road.
+1940,4,USEJa,12,1. Japan occupies Indochina
+1940,4,PactGe,10,J/A 1940 German Pact Chit
+1940,4,PactRu,10,J/A 1940 USSR Pact Chit
+1940,4,USEGe,10,USE
+1940,5,USEGe,3,20. Italy declares war on Greece
+1940,5,PactGe,10,S/O 1940 German Pact Chit
+1940,5,PactRu,10,S/O 1940 USSR Pact Chit
+1940,5,USEJa,10,USE
+1940,6,USEGe,3,19. Germany aligns Hungary
+1940,6,USEGe,3,19. Germany aligns Rumania
+1940,6,PactGe,10,N/D 1940 German Pact Chit
+1940,6,PactRu,10,N/D 1940 USSR Pact Chit
+1940,6,USEGe,10,USE
+1941,1,USEJa,6,3. Japan militarizes Marshalls
+1941,1,PactGe,10,J/F 1941 German Pact Chit
+1941,1,PactRu,10,J/F 1941 USSR Pact Chit
+1941,1,USEJa,10,USE
+1941,2,USEGe,3,19. Germany aligns Bulgaria
+1941,2,USEGe,3,20. Germany declares war on Yugoslavia
+1941,2,PactGe,10,M/A 1941 German Pact Chit
+1941,2,PactRu,10,M/A 1941 USSR Pact Chit
+1941,2,USEGe,10,USE
+1941,3,USEJa,3,2. Japan/USSR pact
+1941,3,USEGe,8,13. Germany and Italy declare war on USSR
+1941,3,USEGe,-5,32. CW declares war on Iraq
+1941,3,USEGe,3,19. Germany aligns Finland
+1941,3,PactJa,10,M/J 1941 Japan Pact Chit
+1941,3,PactRu,10,M/J 1941 USSR Pact Chit
+1941,3,USEJa,10,USE
+1941,4,USEGe,-9,31. USSR declares war on Iran
+1941,4,PactRu,10,J/A 1941 USSR Pact Chit
+1941,4,USEGe,10,USE
+1941,5,PactGe,10,S/O 1941 Japan Pact Chit
+1941,5,PactRu,10,S/O 1941 USSR Pact Chit
+1941,5,USEJa,10,USE
